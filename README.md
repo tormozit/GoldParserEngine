@@ -1,2 +1,2 @@
 # GoldParserEngine
- Gold parser engine adopted
+ Gold parser engine adapted
