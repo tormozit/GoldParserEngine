@@ -1,0 +1,18 @@
+D:\VC\goldparserengine\GoldParserEngine\bin\Debug\GoldParserEngine.dll
+D:\VC\goldparserengine\GoldParserEngine\bin\Debug\GoldParserEngine.pdb
+D:\VC\goldparserengine\GoldParserEngine\obj\Debug\GoldParserEngine.csprojResolveAssemblyReference.cache
+D:\VC\goldparserengine\GoldParserEngine\obj\Debug\GoldParserEngine.dll
+D:\VC\goldparserengine\GoldParserEngine\obj\Debug\GoldParserEngine.pdb
+D:\VC\goldparserengine\GoldParserEngine\bin\Debug\GoldParserEngine.tlb
+D:\VC\GOLD parser\GoldParserEngine1\bin\Debug\GoldParser.dll
+D:\VC\GOLD parser\GoldParserEngine1\bin\Debug\GoldParser.pdb
+D:\VC\GOLD parser\GoldParserEngine1\obj\Debug\GoldParser.dll
+D:\VC\GOLD parser\GoldParserEngine1\obj\Debug\GoldParser.pdb
+D:\VC\GOLD parser\GoldParserEngine1\bin\Debug\GoldParser.tlb
+D:\VC\GOLD parser\GoldParserEngine1\obj\Debug\GoldParserEngine.csprojResolveAssemblyReference.cache
+D:\VC\GOLD parser\C#Working\obj\Debug\GoldParserEngine.csprojResolveAssemblyReference.cache
+D:\VC\GOLD parser\C#Working\obj\Debug\GoldParser.dll
+D:\VC\GOLD parser\C#Working\obj\Debug\GoldParser.pdb
+D:\VC\GOLD parser\C#Working\bin\Debug\GoldParser.dll
+D:\VC\GOLD parser\C#Working\bin\Debug\GoldParser.pdb
+D:\VC\GOLD parser\C#Working\bin\Debug\GoldParser.tlb

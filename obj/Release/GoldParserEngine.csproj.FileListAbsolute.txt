@@ -1,0 +1,5 @@
+D:\VC\GOLD parser\C#Working\bin\Release\GoldParser.dll
+D:\VC\GOLD parser\C#Working\bin\Release\GoldParser.pdb
+D:\VC\GOLD parser\C#Working\obj\Release\GoldParserEngine.csprojResolveAssemblyReference.cache
+D:\VC\GOLD parser\C#Working\obj\Release\GoldParser.dll
+D:\VC\GOLD parser\C#Working\obj\Release\GoldParser.pdb
